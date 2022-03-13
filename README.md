@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi413&label=Profile%20views&color=0e75b6&style=flat" alt="avi413" /> </p>
 
+
+<p align="left">Director of Information Systems
+Development. Experienced in developing
+CRM systems, file management web
+apps, and backend API for integration
+with digital services.</p>
 <p align="left">👀 I'm  a Web Development Student at <a href="https://practicum.yandex.com/" target="_blank" rel="noreferrer">Yandex Practicum.</a></p>
 <p align="left">📔 Learning HTML, CSS, Javascript and React</p>
 
