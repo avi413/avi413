@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi413&label=Profile%20views&color=0e75b6&style=flat" alt="avi413" /> </p>
 
 
-<p align="left">👀 I'm  a Web Development Student at <a href="https://practicum.yandex.com/" target="_blank" rel="noreferrer">Yandex Practicum.</a></p>
+<p align="left">🌱 I'm  a Web Development Student at <a href="https://practicum.yandex.com/" target="_blank" rel="noreferrer">Yandex Practicum.</a></p>
 <p align="left">📔 Learning HTML, CSS, Javascript and React</p>
+<p align="left">🏠 I'm currently working as a SIEBEL CRM developer 😁</p>
+<p align="left">📟 2022 Goals: Make a professional conversion to Full Stack developer</p>
+<p align="left">⚡ Fun fact: I love connecting with different people 🙌</p>
 
 </br>
 <h2 align="left">Languages and Tools:</h2>
@@ -14,7 +17,7 @@
 <h2 align="left">GitHub use statistics:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avi413&show_icons=true&locale=en&layout=compact" alt="avi413" /></p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/avi.dalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avi.dalal" height="30" width="40" /></a>
-</p>
+## Connect with me
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomer.avi413@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/avi.dalal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-dalal/)
