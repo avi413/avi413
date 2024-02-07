@@ -4,11 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi413&label=Profile%20views&color=0e75b6&style=flat" alt="avi413" /> </p>
 
 
-<p align="left">🌱 I'm  a Web Developer</p>
-<p align="left">📔 Focused on HTML, CSS, Javascript and React</p>
-<p align="left">🏠 I'm currently working as a SIEBEL CRM developer 😁</p>
-<p align="left">📟 2022 Goals: Make a professional conversion to Full Stack developer</p>
-<p align="left">⚡ Fun fact: I love connecting with different people 🙌</p>
+<p align="left">🌱 Web Developer turned Full Stack Tech Lead at Deloitte</p>
+<p align="left">📔 Proficient in HTML, CSS, JavaScript, and React</p>
+<p align="left">🔧 Experienced AEM (Adobe Experience Manager) Developer with Java</p>
+<p align="left">🏠 Currently leading projects as a Full Stack Tech Lead at Deloitte</p>
+<p align="left">⚡📟 2024 Goals Achieved: Successfully transitioned to a Full Stack Developer role and now thriving as a Tech Lead at Deloitte</p>
+<p align="left">⚡⚡ Fun fact: I thrive on connecting with diverse individuals and fostering collaborative environments 🙌</p>
 
 </br>
 <h2 align="left">Languages and Tools:</h2>
